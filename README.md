@@ -1,4 +1,5 @@
- # 💫 About Me:
+
+# 💫 About Me:
 I'm currently pursuing my Bachelor in Technology from VIT Bhopal University.<br>I'm enthusiastic about coding, Problem-solving, Web dev, and working on the cloud.<br>
 
 
